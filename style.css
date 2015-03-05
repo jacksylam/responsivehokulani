@@ -1,0 +1,63 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  background-color: white;
+}
+
+
+.header-image{
+  background-image: url("banner.jpg");
+  height: 200px;
+  background-size: cover;
+}
+
+
+
+.navbar-inverse{
+  background-color: #3487F1;
+  border: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #FAE851;
+}
+
+.nav>li>a{
+  font-size: 18px;
+  text-align: center;
+
+}
+
+.well{
+  background-color: #3487F1;
+  border: 0px;
+
+}
+
+.well>li{
+  list-style: none;
+  text-align: center;
+}
+
+.well>li>a{
+  color: white;
+  font-size: 16px;
+}
+
+.frontpicture{
+  background-image: url("execellence.jpg");
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center
+}
+
+h2{
+  color: #FAE851;
+  font-size: 24px;
+  text-align: center;
+}
+
+p{
+  font-size: 16px;
+}
